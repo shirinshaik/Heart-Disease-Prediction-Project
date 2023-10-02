@@ -1,4 +1,4 @@
 # Heart-Disease-Prediction-Project
 The Heart Disease Prediction project is one of the most popular Python healthcare projects. This project seeks to contribute to the detection of the occurrence and potential risk of heart attacks, coronary artery disease, and other cardiovascular disorders.
 Using the UCI Heart Disease dataset, which has 14 columns and more than 300 samples, you can try out how well various prediction models work. Start by loading Python's essential libraries such as Pandas, Scikit-Learn, etc. Build the different machine learning models such as k neighbors classifier, SVM, Random Forest, and Decision Tree using Scikit Learn. Additionally, you will conduct exploratory data analysis (EDA) on the data using the Pandas library. You will observe that K-nearest neighbors perform the best on the UCI dataset after experimenting with five machine learning models to predict heart disease. 
-* What is Heart Disease Prediction using Machine Learning?
+What is Heart Disease Prediction using Machine Learning?
